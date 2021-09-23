@@ -1,0 +1,38 @@
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.orange{
+    background-color: orange;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color:blue;
+}
+.purple{
+    background-color: purple;
+}
+.pink{
+    background-color: pink;
+}
+
+.droptarget{ 
+    width: 100px; 
+    height: 35px;
+    border: 1px solid #aaaaaa;
+    display: inline-block;
+    margin: 20px 0 20px 0;
+}
+
+#blackBoard{
+    margin: 20px 0 20px 0;
+
+}
+
+h2,h3, button{
+    margin: 15px 0 15px;
+}
